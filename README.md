@@ -16,14 +16,11 @@ Include a very brief summary of your project here. Images are encouraged, along 
 - what CSS framework you used and why.
   - include any modifications to the CSS framework you made via custom CSS you authored. I used buttons, hovering and changing button colors, I added different boxes and seperations to make the webpage look nice. I also have a footnote to make the page look complete.
 - the five Express middleware packages you used and a short (one sentence) summary of what each one does.
-1. cookieparser = 
-2.
-3.
-4.
-5.
-
-## Technical Achievements
-- **Tech Achievement 1**: I used OAuth authentication via the GitHub strategy.
+1. cookieparser = parse cookie header.
+2. csurf = Protect from CSRF exploits.
+3. connect-rid = generate unique request ID.
+4. express-debug = Development tool that adds information about template variables (locals), current session, and so on.
+5. join-io = Joins files on the fly to reduce the requests count.
 
 
 ### Design/Evaluation Achievements
