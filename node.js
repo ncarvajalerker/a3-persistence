@@ -1,5 +1,5 @@
 //here is all the middleware for the assignment
-$ npm install passport
+import $ npm install passport
 var express = require('express')
 var cors = require('cors')
 var app = express()
