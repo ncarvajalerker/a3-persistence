@@ -4,9 +4,11 @@
 console.log('hello world!');
 
 const movie = [
-  'Avengers: Endgame',
-  'A Beautiful Mind',
-  'Pay it Forward'
+   'title: Avengers: Endgame, year: 2019, direct: Russo',
+  'title: Pay It Forward, year: 2004, direct: Lender',
+  'title: The Princess Bride, year: 1987, direct: Reiner',
+   'title: A Beautiful Mind, year: 2001, direct: Howard',
+   'title: Black Panther, year: 2018, direct: Coogler' 
 ];
 
 const movieList = document.getElementById('movie');
